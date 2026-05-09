@@ -37,6 +37,14 @@ This is a great way to demonstrate intermediate SQL skills to recruiters and hir
 * **Database:** PostgreSQL
 * **Key Techniques:** Window Functions, Recursive CTEs, Subqueries, Range Partitioning, Row-level Locking, Performance Tuning.
 
+## 4. FinTrack is a high-performance SQL analytics project 
+designed to simulate a real-world FinTech environment. The project transforms raw transactional data into actionable business intelligence using advanced PostgreSQL techniques.
+
+## 🛠️ Tech Stack
+Database: PostgreSQL
+Core Competencies: Window Functions, CTEs, Data Normalization, Time-Series Analysis.
+
+
 ## 📈 Key Learning Outcomes
 * Mastery of PostgreSQL window functions for trend analysis.
 * Ability to design scalable database schemas for IoT and time-series applications.
